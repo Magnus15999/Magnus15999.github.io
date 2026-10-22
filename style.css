@@ -1,0 +1,15 @@
+h1 {
+    color:yellow;
+}
+body {background-color: coral;}
+p{
+    color:yellow
+}
+
+.new_body{
+    background-color: red;
+}
+
+.new_body + ul{
+font-size:;
+}
